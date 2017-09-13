@@ -5,6 +5,6 @@ title: Hello World!
 
 Hello We are Graydient Creative 
 
-![alt text](https://media.giphy.com/media/Na2i9xObnOz3W/giphy.gif "What Up")
+![alt text](https://i.giphy.com/media/dzaUX7CAG0Ihi/giphy.webp "Hello Bear")
 
 This is a blog using https://jekyllrb.com/ running on Github Pages!
